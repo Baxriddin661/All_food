@@ -1,0 +1,110 @@
+.navbar-btn{
+    border: solid 2px rgb(240, 97, 15);
+}
+
+.navbar-btn:hover{
+    background: rgb(240, 97, 15);
+    color: white;
+}
+
+footer{
+    background: url(./img/gallery/section_bg02.png) no-repeat center /cover;
+}
+
+.footer-div{
+    
+    height: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+.footer-ul{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.footer-img{
+    position: relative;
+    top: 120px;
+}
+
+.navbar-toggler{
+    background: rgba(0, 0, 0, 0.363);
+}
+
+.menu:hover
+{
+    background: orangered;
+}
+.shad
+{
+    box-shadow: 0 2px 1rem rgba(0, 0, 0, 0.15) !important
+}
+.shad:hover
+{
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.navbar-btn{
+    border: solid 2px rgb(240, 97, 15);
+}
+
+.navbar-btn:hover{
+    background: rgb(240, 97, 15);
+    color: white;
+}
+
+
+/* Blog */
+.tag-clouds button{
+    border: solid 2px rgb(228, 220, 220);
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.footer-ul{
+    list-style: none;
+    max-width: 400px;
+}
+
+.footer-ul img{
+    width: 100%;
+    height: auto;   
+    max-width: 100px;
+    min-width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.menu:hover
+{
+    background: orangered;
+}
+.shad
+{
+    box-shadow: 0 2px 1rem rgba(0, 0, 0, 0.15) !important
+}
+.shad:hover
+{
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.navbar-btn{
+    border: solid 2px rgb(240, 97, 15);
+}
+
+.navbar-btn:hover{
+    background: rgb(240, 97, 15);
+    color: white;
+}

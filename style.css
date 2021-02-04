@@ -47,6 +47,19 @@ ul{
     transform: scale(1.01);
     cursor: pointer;
 }
+
+.shad2
+{
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.658) !important
+}
+
+.shad2:hover
+{
+    transform: scale(1.05);
+    box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.658) !important;
+    cursor: pointer;
+}
+
 .navbar-btn{
     border: solid 2px rgb(240, 97, 15);
 }
@@ -75,17 +88,6 @@ ul{
     max-width: 100px;
     min-width: 50px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .menu:hover
 {

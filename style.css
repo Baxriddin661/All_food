@@ -11,20 +11,20 @@
     color: white;
 }
 
-a{
+/* a{
     transition: all 0.3s ease-out 0s;
     background-color: transparent;
-}
+} */
 
 /* .fa-telegram:before {
     content: "\f1d8";
     
 } */
-
+/* 
 .atag:hover {
     background: rgb(255, 255, 255);;
     
-}
+} */
 
 footer{
     background: url(./img/gallery/section_bg02.png) no-repeat center /cover;

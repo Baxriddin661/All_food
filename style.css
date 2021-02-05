@@ -1,3 +1,7 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
 .navbar-btn{
     border: solid 2px rgb(240, 97, 15);
 }
@@ -5,6 +9,21 @@
 .navbar-btn:hover{
     background: rgb(240, 97, 15);
     color: white;
+}
+
+a{
+    transition: all 0.3s ease-out 0s;
+    background-color: transparent;
+}
+
+/* .fa-telegram:before {
+    content: "\f1d8";
+    
+} */
+
+.atag:hover {
+    background: rgb(255, 255, 255);;
+    
 }
 
 footer{
